@@ -8,7 +8,7 @@ Este repositorio contiene la resolución de tres programas desarrollados en Pyth
 
 ---
 
-## 🛠️ Descripción de los Programas
+## Descripción de los Programas
 
 ### 1. Estadísticas de Datos (`compute_statistics.py`)
 Calcula medidas de tendencia central y dispersión a partir de archivos con datos numéricos.
@@ -26,24 +26,9 @@ Identifica la frecuencia de cada palabra distinta en archivos de texto.
 
 ---
 
-## 💎 Calidad de Código
+## Calidad de Código
 Todos los scripts han sido evaluados con la herramienta **Pylint**, obteniendo una calificación de **10.00/10**, lo que garantiza:
 * Cumplimiento total del estándar **PEP-8**.
 * Documentación adecuada mediante *docstrings*.
 * Nombres de variables significativos y estructura modular.
 
----
-
-## 🚀 Instrucciones de Ejecución
-
-Para ejecutar los programas, utiliza los siguientes comandos en tu terminal:
-
-```bash
-# Ejercicio 1
-python compute_statistics.py tests/TC1.txt
-
-# Ejercicio 2
-python convert_numbers.py tests/TC1.txt
-
-# Ejercicio 3
-python word_count.py tests/TC1.txt
